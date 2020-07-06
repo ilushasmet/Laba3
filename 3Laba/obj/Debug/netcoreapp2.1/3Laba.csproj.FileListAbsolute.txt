@@ -1,0 +1,11 @@
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\bin\Debug\netcoreapp2.1\3Laba.deps.json
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\bin\Debug\netcoreapp2.1\3Laba.runtimeconfig.json
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\bin\Debug\netcoreapp2.1\3Laba.runtimeconfig.dev.json
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\bin\Debug\netcoreapp2.1\3Laba.dll
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\bin\Debug\netcoreapp2.1\3Laba.pdb
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\obj\Debug\netcoreapp2.1\3Laba.csprojAssemblyReference.cache
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\obj\Debug\netcoreapp2.1\3Laba.csproj.CoreCompileInputs.cache
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\obj\Debug\netcoreapp2.1\3Laba.AssemblyInfoInputs.cache
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\obj\Debug\netcoreapp2.1\3Laba.AssemblyInfo.cs
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\obj\Debug\netcoreapp2.1\3Laba.dll
+C:\Users\asmet\Desktop\C#\3Laba\3Laba\obj\Debug\netcoreapp2.1\3Laba.pdb
